@@ -117,6 +117,7 @@ SET(SRC_LIBPROJ_PJ
         PJ_putp5.c
         PJ_putp6.c
         PJ_qsc.c
+        PJ_quincuncial.c
         PJ_robin.c
         PJ_rpoly.c
         PJ_sch.c
